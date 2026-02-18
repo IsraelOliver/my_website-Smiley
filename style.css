@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&family=Caveat:wght@400..700&family=Kelly+Slab&display=swap');
+
+:root {
+  /* fonts */
+  --font-BioRhyme: 'BioRhyme', serif;
+  --font-Caveat: 'Caveat', cursive;
+  --font-Kelly: 'Kelly Slab', serif;
+
+  /* Colors Palette */
+  --color-base: #070B14;
+  --color-base-variaty: #0E1625;
+  --color-primary: #2E6CFF;
+  --color-secondary: #6A00FF;
+  --color-details: #C1121F;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--color-base);
+}
+
+#home {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  border-bottom: 1px solid var(--color-secondary);
+}
+
+.navigate {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.title-link {
+  font-size: 24px;
+  color: var(--color-primary);
+  text-decoration: none;
+  font-family: var(--font-Kelly);
+  font-weight: bold;
+  transition: .3s ease;
+}
+
+.title-link:hover {
+  color: var(--color-details);
+}
+
+.menu a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: var(--color-primary);
+  font-size: 18px;
+  font-family: var(--font-BioRhyme);
+  transition: .3s;
+}
+
+.menu a:hover {
+  color: var(--color-details);
+}
+
+#home {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-home {
+  font-size: 48px;
+  color: var(--color-primary);
+  font-family: var(--font-Caveat);
+}
