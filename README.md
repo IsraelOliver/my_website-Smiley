@@ -5,7 +5,7 @@ A proposta é unir tecnologia, minimalismo e estética de universo próprio.
 
 ## Acesse Online
 
-> https://IsraelOliver.github.io/my_website-Smiley
+> [https://IsraelOliver.github.io/my_website-Smiley](https://israeloliver.github.io/my_website-Smiley/)
 
 ![Home](./assets/home.png)
 
