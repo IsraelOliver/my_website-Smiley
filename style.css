@@ -157,3 +157,30 @@ body {
   50% { opacity: 0.8; }
   100% { opacity: 0.2;}
 }
+
+/* ==== MOBILE ==== */
+
+@media (max-width: 768px) {
+  /* Header-Mobile */
+  .menu {
+    display: none;
+  }
+
+  /* Home-Mobile */
+  .home-container {
+    padding: 15px;
+  }
+
+  .title-home {
+    font-size: 40px;
+  }
+
+  .home-container hr {
+    margin: 10px 0;
+    width: 40%;
+  }
+
+  .subtitle-home {
+    font-size: 15px;
+  }
+}
