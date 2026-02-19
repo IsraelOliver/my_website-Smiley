@@ -1,0 +1,19 @@
+# Israel Oliveira — Portfolio Universe 🌌
+
+Este é meu portfólio pessoal em constante evolução.
+A proposta é unir tecnologia, minimalismo e estética de universo próprio.
+
+![Home](./assets/home.png)
+
+## Acesse Online
+
+> [https://IsraelOliver.github.io/my_website-Smiley](https://israeloliver.github.io/my_website-Smiley/)
+
+## Tecnologias (Por enquanto...)
+  - HTML5
+  - CSS3 (Flexbox, animações)  
+
+## Próximos Passos
+  - Implementação da seção de Projetos
+  - Transições suaves entre seções
+  - Responsividade completa
