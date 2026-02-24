@@ -151,6 +151,12 @@ html {
   font-family: var(--font-BioRhyme);
 }
 
+.description {
+  color: var(--color-text-muted);
+  font-size: 17px;
+  font-family: var(--font-BioRhyme);
+}
+
 .message{
   position: absolute;
   bottom: 30px;
